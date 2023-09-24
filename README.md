@@ -1,5 +1,4 @@
 ## 이종훈 🌱
-😄 **portfolio** https://www.notion.so/izongg/f31e73aa2e9c45bbafe06098f2f1612e
 
 <!--
 **izongg0/izongg0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
